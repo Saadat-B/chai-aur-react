@@ -6,7 +6,7 @@ function App() {
 
   const addValue = () => {
     console.log({ counter });
-    counter = counter + 1;
+
     setCounter(counter);
   };
 
